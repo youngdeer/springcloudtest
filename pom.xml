@@ -12,5 +12,6 @@
   	<module>../service-ribbon</module>
   	<module>../service-zuul</module>
   	<module>../config-server</module>
+  	<module>../config-client</module>
   </modules>
 </project>
